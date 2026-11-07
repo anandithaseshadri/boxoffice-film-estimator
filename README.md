@@ -1,6 +1,10 @@
 # boxoffice-film-estimator
 This helps you decide whether a movie is worth investing in by estimating whether it could become a hit or a flop based on your choices.
 
+## Live Website
+
+[Open the Box Office Film Estimator](https://anandithahousefull6.netlify.app/)
+
 ### Investment. Hit. Flop.
 
 The **Box Office Film Estimator** is an interactive tool that helps users explore a movie's potential box-office performance and investment success.
